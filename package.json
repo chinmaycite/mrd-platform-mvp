@@ -1,0 +1,15 @@
+{
+  "name": "allovista-mrd-platform-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "install:all": "npm install",
+    "dev": "npm run dev --workspace frontend",
+    "build": "npm run build --workspace frontend",
+    "backend": "npm run start --workspace backend"
+  }
+}
