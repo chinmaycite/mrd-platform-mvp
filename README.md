@@ -1,4 +1,4 @@
-# Allovista MRD Platform MVP
+# MRD Platform MVP
 
 This repository captures the MVP plan for an in-house clinical MRD platform that lets hospitals and clinical labs run advanced oncology testing without sending samples to external labs.
 
